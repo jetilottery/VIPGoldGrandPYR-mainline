@@ -1,0 +1,27 @@
+
+BG.jpg
+size: 2011,1626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/bg_land
+  rotate: false
+  xy: 2, 814
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+nonTrans/bg_port
+  rotate: true
+  xy: 2, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1444, 818
+  size: 565, 806
+  orig: 565, 810
+  offset: 0, 4
+  index: -1

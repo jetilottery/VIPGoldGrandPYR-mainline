@@ -1,0 +1,20 @@
+
+Transition.png
+size: 172,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diamonds-for-rain
+  rotate: false
+  xy: 2, 2
+  size: 83, 298
+  orig: 83, 298
+  offset: 0, 0
+  index: -1
+diamonds-for-rain_2
+  rotate: false
+  xy: 87, 2
+  size: 83, 298
+  orig: 83, 298
+  offset: 0, 0
+  index: -1

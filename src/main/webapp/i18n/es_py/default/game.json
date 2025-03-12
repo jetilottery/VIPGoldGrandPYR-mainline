@@ -1,0 +1,165 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "es del {@minRTP}%",
+        "RTPrange": "es del {@minRTP}% al {@maxRTP}%",
+        "paybackTitle": "Retorno estimado",
+        "paybackBody": "Para este juego, el retorno estimado a largo plazo es del {RTP}.",
+        "subheading": "Costo del ticket: {ticketCost}",
+        "prizeLevel": "Nivel de premio",
+        "description": "Descripción",
+        "prizeValue": "Valor de premio",
+        "descriptionText1": "Premio por combinación de números",
+        "descriptionText2": "Premio de bonificación",
+        "overallChances": "Hay una probabilidad de 1 en {odds} de ganar un premio con cada jugada.",
+        "prizeDivision": "División de premio",
+        "prizeRemaining": "Premios restantes aproximados",
+        "oddsPerPlay": "Probabilidades por jugada"
+    },
+    "title": "Oro y Gloria",
+    "MenuCommand":
+    {
+        "price": "Precio",
+        "stake": "Apuesta",
+        "howToPlay": "Ayuda",
+        "paytable": "Tabla de premios",
+        "close": "Cerrar",
+        "audio":
+        {
+            "sound": "Sonido",
+            "on": "Activar",
+            "off": "Desactivar"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "Se produjo un error interno. Presiona SALIR y vuelve a abrir el juego."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "COSTO DEL TICKET",
+        "ticketSelect_ticketCost": "COSTO DEL TICKET",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "PRUEBA "
+        },
+        "footer_win":
+        {
+            "BUY": "PREMIO",
+            "TRY": "PREMIO DE PRUEBA"
+        },
+        "button_wheel": "GIRAR",
+        "button_buy":
+        {
+            "BUY": "COMPRAR",
+            "TRY": "PRUEBE"
+        },
+        "button_try": "PRUEBE",
+        "button_continue": "CONTINUAR",
+        "button_retry": "REINTENTAR",
+        "button_moveToMoney": "JUGAR POR DINERO",
+        "button_autoPlay": "MOSTRAR TODOS",
+        "button_autoPlayCollectBonus": "JUGADA AUTOMÁTICA",
+        "button_stop": "DETENER",
+        "button_playAgain":
+        {
+            "BUY": "JUGAR DE NUEVO",
+            "TRY": "INTENTAR DE NUEVO"
+        },
+        "button_tryAgain": "INTENTAR DE NUEVO",
+        "button_ok": "ACEPTAR",
+        "button_exit": "SALIR",
+
+        "error_button_exit": "SALIR",
+        "error_title": "ERROR",
+
+        "message_nonWin": "SUERTE LA PRÓXIMA VEZ",
+        "message_win":
+        {
+            "BUY": "FELICITACIONES!\nHA GANADO",
+            "TRY": "GRACIAS POR JUGAR!\nPODRÍA HABER GANADO"
+        },
+        "howToPlayTitle": "CÓMO JUGAR",
+        "bonusCard":
+        {
+            "InstantWin": "PREMIO\nINSTANTÁNEO",
+            "WheelBonus": "BONIFICACIÓN\nDE RULETA",
+            "CollectBonus": "BONIFICACIÓN\nDE PREMIO"
+        },
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Combina tus números con los números ganadores para ganar un premio.",
+                    "text2": "{instantWin} Revela un símbolo de corona para recibir un premio instantáneo.",
+                    "text3": "{instantWin10X} Una corona con x2, x5 o x10 multiplica el premio."
+                },
+                "portrait":
+                {
+                    "text1": "Combina tus números con los números ganadores para ganar un premio.",
+                    "text2": "{instantWin} Revela un símbolo de corona para recibir un premio instantáneo.",
+                    "text3": "{instantWin10X} Una corona con x2, x5 o x10 multiplica el premio."
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "{wheel} Revela el símbolo de la ruleta para activar la bonificación de ruleta.",
+                    "text2": "BONIFICACIÓN DE RULETA: Gira la ruleta. La ruleta interna revela el premio,\ny la externa muestra el multiplicador."
+                },
+                "portrait":
+                {
+                    "text1": "{wheel} Revela el símbolo de bonificación de ruleta\npara activar la bonificación de ruleta.",
+                    "text2": "BONIFICACIÓN DE RULETA: Gira la ruleta.\nLa ruleta interna revela el premio, y\nla externa muestra el multiplicador."
+                }
+            },
+            "page3":
+            {
+                "landscape":
+                {
+                    "text1": "{collect} Revela el símbolo de bonificación de premio para activar la bonificación de premio.",
+                    "text2": "BONIFICACIÓN DE PREMIO: Toca los lingotes de oro para revelar los premios. Los premios se acumulan en el medidor de premios de bonificación totales.\nRevela una estrella dorada para terminar la bonificación y cobrar sus premios."
+                },
+                "portrait":
+                {
+                    "text1": "{collect} Revela el símbolo de bonificación de premio\npara activar la bonificación de premio.",
+                    "text2": "BONIFICACIÓN DE PREMIO: Toca los lingotes de oro\npara revelar los premios. Los premios se acumulan\nen el medidor de premios de bonificación totales.\nRevela una estrella dorada para terminar\nla bonificación y cobrar sus premios."
+                }
+            }
+        },
+        "winUpToText": "¡GANE HASTA",
+        "winUpToValue": "{0}!",
+        "bonus": "BONIFICACIÓN",
+        "bonusNoWin": "PREMIO SIN BONIFICACIÓN",
+        "bonusWin": "BONIFICACIÓN: {0}",
+
+        "winAll": "GANAR TODO",
+        "bonusLives": "ENCUENTRE 3 PARA TERMINAR LA BONIFICACIÓN",
+        "bonusInfo": "¡ENCUENTRE 3 O MÁS ESTRELLAS DE ORO PARA GANAR!",
+
+        "collect": "COBRAR",
+        "collectBonusInfo": "¡REVELE LA ESTRELLA DE ORO\nPARA TERMINAR LA BONIFICACIÓN\nY COBRAR SUS PREMIOS!",
+        "collectBonusTotalWin": "PREMIO TOTAL DE LA BONIFICACIÓN",
+
+        "yourNumbers": "SUS NÚMEROS",
+        "luckyNumbers": "NÚMEROS GANADORES",
+        "wheelBonus":
+        {
+            "winUpToLine1": "HASTA",
+            "winUpToLine2": "MULTIPLICADOR DE PREMIO",
+            "winPlaque":
+            {
+                "prize": "PREMIO",
+                "multiplier": "MULTIPLICADOR",
+                "totalWin": "PREMIO TOTAL DE LA BONIFICACIÓN"
+            }
+        }
+    }
+}
